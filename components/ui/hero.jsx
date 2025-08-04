@@ -42,7 +42,7 @@ const HeroSection = () => {
             </Button>
           </Link>
           <Link
-            href="https://www.youtube.com/channel/UCKXRsXQq2zixXmtloY9cjHQ"
+            href="https://www.youtube.com/@Smart_Hack21"
             target="_blank"
           >
             <Button size="lg" className="px-8" variant="outline">
