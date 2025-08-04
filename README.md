@@ -54,7 +54,7 @@ Check out the live demo here:
 
 ---
 
-## 📸 Screenshots
+
 
 ### 📝 Real-time Resume Builder  
 ![Real-time Resume Builder](https://github.com/user-attachments/assets/0dfffe85-3131-4c84-b1c4-aad18c6d2e20)
@@ -76,7 +76,7 @@ Practice interview questions and get AI feedback.
 
 **Name:** Sameeksha Rai  
 **Email:** rsameeksha8.gmail@example.com  
-**GitHub:** [https://github.com/Samee28e](https://github.com/Samee28e)
+**GitHub:** [https://github.com/Samee28](https://github.com/Samee28)
 
 ---
 
