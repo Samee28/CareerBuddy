@@ -38,43 +38,55 @@
    ```bash
    git clone https://github.com/Samee28/CareerBuddy.git
 
+---
 
-Contribution
-Contributions welcome! Fork, create a feature branch, commit, push, and open a PR.
+## 🤝 Contribution
 
-Live Project Link:career-buddy-ncgm.vercel.app
+Contributions are **welcome**!  
+Feel free to fork the repository, create a feature branch, commit your changes, push, and open a Pull Request (PR). Let’s make this project better together! 🚀
 
+---
 
+## 🔗 Live Project Link
 
+Check out the live demo here:  
+➡️ [career-buddy-ncgm.vercel.app](https://career-buddy-ncgm.vercel.app)
 
-<img width="760" height="881" alt="Screenshot 2025-08-04 113054" src="https://github.com/user-attachments/assets/e4083003-fc06-48f4-936d-257904977b58" />
+---
 
+## 📸 Screenshots
 
-### Real-time Resume Builder  
-<img width="1528" height="942" alt="Screenshot 2025-08-04 113154" src="https://github.com/user-attachments/assets/0dfffe85-3131-4c84-b1c4-aad18c6d2e20" />
-### AI Cover Letter Generator  
+### 📝 Real-time Resume Builder  
+![Real-time Resume Builder](https://github.com/user-attachments/assets/0dfffe85-3131-4c84-b1c4-aad18c6d2e20)
 
-<img width="794" height="815" alt="Screenshot 2025-08-04 113328" src="https://github.com/user-attachments/assets/23722268-a3e8-4cb7-9a58-2d642f112256" />
-Generate tailored cover letters powered by AI.
+### ✉️ AI Cover Letter Generator  
+Generate tailored cover letters powered by AI.  
+![AI Cover Letter Generator](https://github.com/user-attachments/assets/23722268-a3e8-4cb7-9a58-2d642f112256)
 
-### Interview Preparation  
-<img width="759" height="901" alt="Screenshot 2025-08-04 113444" src="https://github.com/user-attachments/assets/aac05ae1-7bf5-4e7d-b7cd-cea97a6ce939" />
+### 🎤 Interview Preparation  
+Practice interview questions and get AI feedback.  
+![Interview Preparation](https://github.com/user-attachments/assets/aac05ae1-7bf5-4e7d-b7cd-cea97a6ce939)
 
-Practice interview questions and get AI feedback.
-Create and edit your resume with live preview.
+### 🖥️ App Home Screen  
+![App Home Screen](https://github.com/user-attachments/assets/e4083003-fc06-48f4-936d-257904977b58)
 
-Contact
-Name:Sameeksha
+---
 
-Email: rsameeksha8.gmail@example.com
+## 📬 Contact
 
-GitHub: https://github.com/Samee28e
+**Name:** Sameeksha Rai  
+**Email:** rsameeksha8.gmail@example.com  
+**GitHub:** [https://github.com/Samee28e](https://github.com/Samee28e)
 
-Acknowledgements
-OpenAI for AI-powered features
+---
 
-Vercel for deployment
+## 🙏 Acknowledgements
 
-Tailwind CSS community
+- Thanks to **OpenAI** for powering AI features  
+- Thanks to **Vercel** for seamless deployment  
+- Thanks to the **Tailwind CSS community** for amazing UI tools  
 
-⭐ If you find this project useful, please give it a star!
+---
+
+⭐ If you find this project useful, please consider giving it a star!  
+
