@@ -1,4 +1,4 @@
-<img width="759" height="901" alt="Screenshot 2025-08-04 113444" src="https://github.com/user-attachments/assets/16a8683e-64a0-4487-b2ed-47e54e282575" />Career Buddy 
+Career Buddy 
 
 
 Project Overview
