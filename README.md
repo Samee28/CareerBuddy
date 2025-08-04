@@ -1,4 +1,4 @@
-<img width="760" height="881" alt="Screenshot 2025-08-04 113054" src="https://github.com/user-attachments/assets/6fc0fef7-312a-4068-8fb3-3811b6fe55d9" />Career Buddy 
+<img width="759" height="901" alt="Screenshot 2025-08-04 113444" src="https://github.com/user-attachments/assets/16a8683e-64a0-4487-b2ed-47e54e282575" />Career Buddy 
 
 
 Project Overview
@@ -51,6 +51,9 @@ Contributions welcome! Fork, create a feature branch, commit, push, and open a P
 
 Live Project Link:career-buddy-ncgm.vercel.app
 
+
+
+
 <img width="760" height="881" alt="Screenshot 2025-08-04 113054" src="https://github.com/user-attachments/assets/e4083003-fc06-48f4-936d-257904977b58" />
 
 
@@ -62,7 +65,7 @@ Live Project Link:career-buddy-ncgm.vercel.app
 Generate tailored cover letters powered by AI.
 
 ### Interview Preparation  
-![Uploading Screenshot 2025-08-04 113444.png…]()
+<img width="759" height="901" alt="Screenshot 2025-08-04 113444" src="https://github.com/user-attachments/assets/aac05ae1-7bf5-4e7d-b7cd-cea97a6ce939" />
 
 Practice interview questions and get AI feedback.
 Create and edit your resume with live preview.
