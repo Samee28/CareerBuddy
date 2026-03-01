@@ -26,7 +26,7 @@
 |--------------|-------------------------------------|
 | 🌐 Frontend  | React.js, Next.js, Tailwind CSS     |
 | ⚙️ Backend   | Node.js / API integrations           |
-| 🤖 AI/ML     | OpenAI (or similar models)           |
+| 🤖 AI/ML     | GeminiAI (or similar models)           |
 | 🚀 Deployment| Vercel                              |
 | 🔧 Version Control | Git & GitHub                   |
 
@@ -82,7 +82,7 @@ Practice interview questions and get AI feedback.
 
 ## 🙏 Acknowledgements
 
-- Thanks to **OpenAI** for powering AI features  
+- Thanks to **GeminiAI** for powering AI features  
 - Thanks to **Vercel** for seamless deployment  
 - Thanks to the **Tailwind CSS community** for amazing UI tools  
 
